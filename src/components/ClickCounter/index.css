@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: black;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+
+.button {
+  border: #007bff 0px;
+  color: white;
+  font-family: 'roboto';
+  padding-left: 8px;
+  padding: 10px;
+  padding-right: 8px;
+  background-color: #007bff;
+}
+
+.count{
+  color:#c20a72 ;
+}
